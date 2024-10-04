@@ -26,10 +26,10 @@ int main() {
     float pib;
     int numeropt;
 
-    printf ("Digite o estado: \n");
+    printf ("Digite a letra do estado (de A até H): \n");
     scanf ("%c", &estado);
 
-    printf ("Digite o código da carta: \n");
+    printf ("Digite o código da carta (de 01 a 04): \n");
     scanf ("%s", &codigoCARTA);
 
     printf ("Digite o nome da cidade: \n");
